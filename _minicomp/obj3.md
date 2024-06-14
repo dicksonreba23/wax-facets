@@ -1,7 +1,7 @@
 ---
 pid: obj3
-label: '"West Indians In History: Mary Prince"'
-orginial_source: https://westindiansinhistory.tumblr.com/post/101280905780/mary-prince
+label: 'West Indians In History: Mary Prince'
+orginial_source: <a href="https://westindiansinhistory.tumblr.com/post/101280905780/mary-prince">Weblink</a>
 re_presented_artist_name: Reba K. Dickson
 re_presentated_art_description: TBA
 re_presented_materials_used: Multi-colored embroidery thread

@@ -2,7 +2,7 @@
 pid: obj8
 label: 'Ashley''s sack '
 orginial_source: Middleton Place Foundation
-re_presented_artist_name: N/A
+re_presented_artist_name: The contents of this exhibit were created by Ruth Middleton
 re_presentated_art_description: |-
   Ashley's sack is made of unbleached cotton from the mid 19th century, about 33x16 inches. Her grand daughter Ruth Middleton embroidered the following on it: My great grandmother Rose
 

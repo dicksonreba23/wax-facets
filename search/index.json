@@ -30,8 +30,8 @@ layout: none
   },
   {
     "pid": "obj3",
-    "label": "\"West Indians In History: Mary Prince\"",
-    "orginial_source": "https://westindiansinhistory.tumblr.com/post/101280905780/mary-prince",
+    "label": "West Indians In History: Mary Prince",
+    "orginial_source": "<a href=\"https://westindiansinhistory.tumblr.com/post/101280905780/mary-prince\">Weblink</a>",
     "re_presented_artist_name": "Reba K. Dickson",
     "re_presented_materials_used": "Multi-colored embroidery thread",
     "created_location": "Boston, Massachusetts",
@@ -97,7 +97,7 @@ layout: none
     "pid": "obj8",
     "label": "Ashley's sack ",
     "orginial_source": "Middleton Place Foundation",
-    "re_presented_artist_name": "N/A",
+    "re_presented_artist_name": "The contents of this exhibit were created by Ruth Middleton",
     "re_presented_materials_used": "Multi-colored embroidery thread",
     "created_location": "South Carolina, USA",
     "collection": "minicomp",
@@ -105,5 +105,18 @@ layout: none
     "content": " ",
     "permalink": "/minicomp/obj8",
     "lunr_id": 7
+  },
+  {
+    "pid": "obj9",
+    "label": "Reba's first embroidered project",
+    "orginial_source": "Reba K. Dickson",
+    "re_presented_artist_name": "This is the first project that Reba embroidered for a class competition ",
+    "re_presented_materials_used": null,
+    "created_location": null,
+    "collection": "minicomp",
+    "thumbnail": "",
+    "content": " ",
+    "permalink": "/minicomp/obj9",
+    "lunr_id": 8
   }
 ]
