@@ -13,7 +13,7 @@ created_location: Dennery, St. Lucia
 order: '8'
 layout: minicomp_item
 collection: minicomp
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/obj9_35/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj9_35/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj9/manifest.json"
 ---
