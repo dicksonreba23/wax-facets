@@ -21,7 +21,7 @@ The gallery below includes the subset of all portraits in the larger minicomp co
 
 The gallery below includes the subset of all manuscripts in the larger minicomp collection. Just as you with the larger collection, you can facet the collection by other criteria. The gallery will dynamically change to reflect your selections.
 
-{% include gallery.html collection='minicomp' field='label' value='orginial_source' facet_by='original_created_date|re_presented_created_date' num_column=4 %}
+{% include gallery.html collection='minicomp' field='orginial_source' value='Reba K. Dickson' num_column=4 %}
 
 
 
