@@ -1,8 +1,8 @@
 ---
 layout: exhibit
-title: "Exhibit with Subset Collection"
+title: "Exhibit with Subset Collection Test"
 gallery: True
-author: Mihr 'Ali
+author: Reba Dickson
 publish_date: 2018-11-15
 permalink: /exhibits/subset/
 ---
@@ -14,14 +14,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 The gallery below includes the subset of all portraits in the larger minicomp collection. In this example there is no facet menu. The item cards are mostly static. 
 
-{% include gallery.html collection='minicomp' field='object_type' value='portrait' num_column=4 %}
+{% include gallery.html collection='minicomp' field='label' value='portrait' num_column=4 %}
 
 
 ## Subset Collection with Facets
 
 The gallery below includes the subset of all manuscripts in the larger minicomp collection. Just as you with the larger collection, you can facet the collection by other criteria. The gallery will dynamically change to reflect your selections.
 
-{% include gallery.html collection='minicomp' field='object_type' value='manuscript' facet_by='location|current_location' num_column=4 %}
+{% include gallery.html collection='minicomp' field='label' value='orginial_source' facet_by='original_created_date|re_presented_created_date' num_column=4 %}
 
 
 

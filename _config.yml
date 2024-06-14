@@ -65,8 +65,8 @@ menu:
     sub:
       - label: "Inspiration and Vision"
         link: "/exhibits/inspiration/"
-      - label: "Image References"
-        link: "/exhibits/references/"
+      - label: "VMS Image Selection"
+        link: "/exhibits/imageselection/"
       - label: "Subset Collection"
         link: "/exhibits/subset/"
   - label: "Browse"

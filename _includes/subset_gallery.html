@@ -20,7 +20,7 @@
               <img class='d-block card-img-top gallery-thumb w-100 mh-100' src='{{ item.thumbnail | absolute_url }}' alt="{{ item.label }}"/>
               <div class="card-body">
                 <a href="{{ item.url | absolute_url }}"><h3 class="card-title">{{ item.label }}</h3></a>
-                <p class="card-text small">This is a {{item.object_type}} from {{item.location}} dating to {{item._date}}.</p>
+                <p class="card-text small">This is the re-presentations of archival images {{item.label}} from {{item.orginial_source}} created on {{item.re_presented_created_date}}.</p>
               </div>
             </div>
           </div>
